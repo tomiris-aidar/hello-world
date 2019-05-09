@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-My name is Tomiris.I am a student.I love progarmming.
+My name is Tomiris.I am a student.I love programming.
